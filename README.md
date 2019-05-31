@@ -8,23 +8,37 @@ This basic important
  
 ## Command
 git init = create
+
 git fetch origin = fetch
+
 git add/remove . = add
+
 git commit -m ‘’ = commit
+
 git checkout <branch> = change branch
+ 
 git reset —hard = back reset
+
 git push = push
 
 New Branch 
+
 git pull = pull
+
 git checkout -b [name_of_your_new_branch]
+
 git push origin [name_of_your_new_branch]
 
+
 // See the branch
+
 git branch -a
 
 
+
 //Remote Url
+
 git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
+
 
  
